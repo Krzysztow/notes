@@ -8,3 +8,6 @@ Awesome talk with live demos by Gor Nishanov: https://www.youtube.com/watch?v=UL
 Few good articles: https://lewissbaker.github.io - this guy also implemented cppcoro https://github.com/lewissbaker/cppcoro
 
 Some code by GOR: https://wandbox.org/permlink/Xb1Lu7DMmm1NVkNC
+
+To be read:
+https://www.reddit.com/r/cpp/comments/6ly4rz/it_had_to_be_done_abusing_co_await_for_optionals/
