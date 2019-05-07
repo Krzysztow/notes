@@ -11,3 +11,7 @@ Some code by GOR: https://wandbox.org/permlink/Xb1Lu7DMmm1NVkNC
 
 To be read:
 https://www.reddit.com/r/cpp/comments/6ly4rz/it_had_to_be_done_abusing_co_await_for_optionals/
+
+Stackless implementation details:
+* backround: https://youtu.be/_fu0gx-xseY?t=103
+* details: https://youtu.be/8C8NnE1Dg4A?t=572
