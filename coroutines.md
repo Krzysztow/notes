@@ -4,6 +4,7 @@ Might be interesting to read: https://blog.panicsoftware.com/co_awaiting-corouti
 
 Good talk by James McNellis: https://www.youtube.com/watch?v=ZTqHjjm86Bw&t=1238s
 Awesome talk with live demos by Gor Nishanov: https://www.youtube.com/watch?v=UL3TtTgt3oU&t=1676s 
+CppCon 2017: David Sackstein shows differences between different approaches (+fibers) https://www.youtube.com/watch?v=mCD6VLVS_y4
 
 Few good articles: https://lewissbaker.github.io - this guy also implemented cppcoro https://github.com/lewissbaker/cppcoro
 
