@@ -16,3 +16,5 @@ https://www.reddit.com/r/cpp/comments/6ly4rz/it_had_to_be_done_abusing_co_await_
 Stackless implementation details:
 * backround: https://youtu.be/_fu0gx-xseY?t=103
 * details: https://youtu.be/8C8NnE1Dg4A?t=572
+
+Coroutines are about Inversion of control (but that's rather for generators): https://hackernoon.com/c-coroutine-ts-its-about-inversion-of-control-d1588c4c4c31 
