@@ -7,3 +7,5 @@ C++17 constexpr lambdas (default!)
 
 https://stackoverflow.com/questions/12202656/c11-lambda-implementation-and-memory-model
    captureless lambdas are function convertible (not functions themselves), but not necessarily C calling convention
+
+Optimization of lambdas and explanations of library implementations: http://www.drdobbs.com/cpp/efficient-use-of-lambda-expressions-and/232500059?pgno=2
