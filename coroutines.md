@@ -18,3 +18,6 @@ Stackless implementation details:
 * details: https://youtu.be/8C8NnE1Dg4A?t=572
 
 Coroutines are about Inversion of control (but that's rather for generators): https://hackernoon.com/c-coroutine-ts-its-about-inversion-of-control-d1588c4c4c31 
+
+
+Arthur O'Dwyer header-only library for coroutines https://github.com/Quuxplusone/coro
