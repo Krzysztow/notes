@@ -21,3 +21,10 @@ Coroutines are about Inversion of control (but that's rather for generators): ht
 
 
 Arthur O'Dwyer header-only library for coroutines https://github.com/Quuxplusone/coro
+
+Go-like channels using C++ coroutines:
+* Jon Balenda's CppCon 2016 talk - https://www.youtube.com/watch?v=N3CkQu39j5I
+* https://luncliff.github.io/coroutine/articles/designing-the-channel/
+
+Dev.to good intro: https://dev.to/dwd/coroutines-in-c-2i5b
+Step by step tutorial: https://kirit.com/How%20C%2B%2B%20coroutines%20work
