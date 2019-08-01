@@ -36,4 +36,5 @@ REALLY GOOD step by step tutorial: https://kirit.com/How%20C%2B%2B%20coroutines%
 
 
 * Presentation:
-** show stack trace
+ * show stack trace
+ * currently no tooling for seeing stored structures by handle
