@@ -33,3 +33,7 @@ Gor presentation with examples: http://open-std.org/JTC1/SC22/WG21/docs/papers/2
 --------------------------------
 REALLY GOOD step by step tutorial: https://kirit.com/How%20C%2B%2B%20coroutines%20work
 --------------------------------
+
+
+* Presentation:
+** show stack trace
