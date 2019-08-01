@@ -9,6 +9,7 @@ CppCon 2017: David Sackstein shows differences between different approaches (+fi
 Few good articles: https://lewissbaker.github.io - this guy also implemented cppcoro https://github.com/lewissbaker/cppcoro
 
 Some code by GOR: https://wandbox.org/permlink/Xb1Lu7DMmm1NVkNC
+Got about impact: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0975r0.html
 
 To be read:
 https://www.reddit.com/r/cpp/comments/6ly4rz/it_had_to_be_done_abusing_co_await_for_optionals/
