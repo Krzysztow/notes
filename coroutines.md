@@ -29,7 +29,8 @@ Go-like channels using C++ coroutines:
 
 Dev.to good intro: https://dev.to/dwd/coroutines-in-c-2i5b
 
-Gor presentation with examples: http://open-std.org/JTC1/SC22/WG21/docs/papers/2014/n4287.pdf
+Gor paper with examples: http://open-std.org/JTC1/SC22/WG21/docs/papers/2014/n4287.pdf
+http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1492r0.pdf
 
 --------------------------------
 REALLY GOOD step by step tutorial: https://kirit.com/How%20C%2B%2B%20coroutines%20work
