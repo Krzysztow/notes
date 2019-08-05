@@ -20,6 +20,7 @@ Stackless implementation details:
 
 Coroutines are about Inversion of control (but that's rather for generators): https://hackernoon.com/c-coroutine-ts-its-about-inversion-of-control-d1588c4c4c31 
 
+Qt Signals-Slots using coroutines: http://jefftrull.github.io/qt/c++/coroutines/2018/07/21/coroutines-and-qt.html
 
 Arthur O'Dwyer header-only library for coroutines https://github.com/Quuxplusone/coro
 
