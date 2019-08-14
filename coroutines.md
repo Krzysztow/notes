@@ -23,7 +23,7 @@ Coroutines are about Inversion of control (but that's rather for generators): ht
 Qt Signals-Slots using coroutines: http://jefftrull.github.io/qt/c++/coroutines/2018/07/21/coroutines-and-qt.html
 
 Arthur O'Dwyer header-only library for coroutines https://github.com/Quuxplusone/coro
-
+-fcoroutines-ts --std=c++2a -stdlib=libc++ -lc++abi
 Go-like channels using C++ coroutines:
 * Jon Balenda's CppCon 2016 talk - https://www.youtube.com/watch?v=N3CkQu39j5I
 * https://luncliff.github.io/coroutine/articles/designing-the-channel/
@@ -38,6 +38,11 @@ Potential implementation with networking library: http://www.open-std.org/jtc1/s
 Use cases & concens by Google​
 37
 Google expressing concerns: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0973r0.pdf: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0973r0.pdf
+
+Disadvantages:
+* RAII might be not doing what you expect
+* Harder debugging
+* Parts of coroutine executed on different threadsin 
 
 --------------------------------
 REALLY GOOD step by step tutorial: https://kirit.com/How%20C%2B%2B%20coroutines%20work
