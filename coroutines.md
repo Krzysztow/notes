@@ -33,6 +33,7 @@ Dev.to good intro: https://dev.to/dwd/coroutines-in-c-2i5b
 Gor paper with examples: http://open-std.org/JTC1/SC22/WG21/docs/papers/2014/n4287.pdf
 http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1492r0.pdf
 
+Symmetrical coroutines: http://open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0913r0.html
 Potential implementation with networking library: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/p0055r0.html
 
 Use cases & concens by Google​
