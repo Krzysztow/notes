@@ -41,6 +41,8 @@ Use cases & concens by Google​
 Google expressing concerns: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0973r0.pdf: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0973r0.pdf
 
 task<T> -> could be used for lazy comutations, if that's not for async stuff
+  
+  Good links list: https://gist.github.com/MattPD/9b55db49537a90545a90447392ad3aeb
 
 Disadvantages:
 * RAII might be not doing what you expect
