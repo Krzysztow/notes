@@ -40,6 +40,8 @@ Use cases & concens by Google​
 37
 Google expressing concerns: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0973r0.pdf: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0973r0.pdf
 
+task<T> -> could be used for lazy comutations, if that's not for async stuff
+
 Disadvantages:
 * RAII might be not doing what you expect
 * Harder debugging
