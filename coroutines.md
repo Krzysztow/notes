@@ -48,6 +48,7 @@ Disadvantages:
 * RAII might be not doing what you expect
 * Harder debugging
 * Parts of coroutine executed on different threadsin 
+* Captured variables not visible
 
 --------------------------------
 REALLY GOOD step by step tutorial: https://kirit.com/How%20C%2B%2B%20coroutines%20work
