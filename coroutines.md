@@ -56,7 +56,7 @@ Presentation should talk about:
 * task (single threaded)
 * task (multi threaded)
 * maybe simple boost asio
-* co_optional/co_error
+* co_optional/co_error (as they don't have to do async, or deffered; used for early exit)
 
 --------------------------------
 REALLY GOOD step by step tutorial: https://kirit.com/How%20C%2B%2B%20coroutines%20work
