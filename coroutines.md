@@ -50,6 +50,14 @@ Disadvantages:
 * Parts of coroutine executed on different threadsin 
 * Captured variables not visible
 
+Presentation should talk about:
+* intro to coroutines
+* generator
+* task (single threaded)
+* task (multi threaded)
+* maybe simple boost asio
+* co_optional/co_error
+
 --------------------------------
 REALLY GOOD step by step tutorial: https://kirit.com/How%20C%2B%2B%20coroutines%20work
 --------------------------------
