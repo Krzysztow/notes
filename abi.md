@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=JPQWQfDhICA
   
 https://www.youtube.com/watch?v=dOfucXtyEsU
   CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()”
+
+std::string in gcc changing to c++11, 
+
+Titus paper
