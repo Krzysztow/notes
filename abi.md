@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=dOfucXtyEsU
 std::string in gcc changing to c++11, 
 
 Titus paper
+
+Interoperability example: https://hsivonen.fi/modern-cpp-in-rust/
