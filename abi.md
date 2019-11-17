@@ -14,3 +14,9 @@ std::string in gcc changing to c++11,
 Titus paper
 
 Interoperability example: https://hsivonen.fi/modern-cpp-in-rust/
+
+
+* gcc-4.7.2-1-mingw32.README.txt - changed default flags - ABI
+* In the GCC 5.1 release libstdc++ introduced a new library ABI that includes new implementations of std::string and std::list. These changes were necessary to conform to the 2011 C++ standard which forbids Copy-On-Write strings and requires lists to keep track of their size.
+* clang on msvc compatibility https://clang.llvm.org/docs/MSVCCompatibility.html
+* C++ std library problem it's a standard TEMPLATE library
