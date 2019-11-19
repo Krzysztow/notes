@@ -20,3 +20,9 @@ Interoperability example: https://hsivonen.fi/modern-cpp-in-rust/
 * In the GCC 5.1 release libstdc++ introduced a new library ABI that includes new implementations of std::string and std::list. These changes were necessary to conform to the 2011 C++ standard which forbids Copy-On-Write strings and requires lists to keep track of their size.
 * clang on msvc compatibility https://clang.llvm.org/docs/MSVCCompatibility.html
 * C++ std library problem it's a standard TEMPLATE library
+
+
+Problems:
+* getting precompiled binaries (package management)
+* using your binary with deps on older systems (or a range of systems)
+* language interoperability
