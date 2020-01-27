@@ -14,6 +14,8 @@ std::string in gcc changing to c++11,
 Titus paper
 
 Interoperability example: https://hsivonen.fi/modern-cpp-in-rust/
+Binary compatibility of shared libraries: http://syrcose.ispras.ru/2009/files/02_paper.pdf
+How to write shared libraries - Urich Drepper
 
 
 * gcc-4.7.2-1-mingw32.README.txt - changed default flags - ABI
