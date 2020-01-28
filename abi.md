@@ -17,6 +17,7 @@ Interoperability example: https://hsivonen.fi/modern-cpp-in-rust/
 Binary compatibility of shared libraries: http://syrcose.ispras.ru/2009/files/02_paper.pdf
 How to write shared libraries - Urich Drepper
 
+Wine calling conventions: https://www.codeweavers.com/about/blogs/aeikum/2016/12/2/creating-visual-studio-c-objects-in-wine
 
 * gcc-4.7.2-1-mingw32.README.txt - changed default flags - ABI
 * In the GCC 5.1 release libstdc++ introduced a new library ABI that includes new implementations of std::string and std::list. These changes were necessary to conform to the 2011 C++ standard which forbids Copy-On-Write strings and requires lists to keep track of their size.
