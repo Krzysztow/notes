@@ -5,3 +5,5 @@
 
 
 * Modules information from the Soup (build system) creators - https://github.com/mwasplund/Soup/blob/master/Docs/Proposal.md
+
+* modules gcc branch - they say CMI/BMI is not distributable (just a cache) - https://gcc.gnu.org/wiki/cxx-modules
