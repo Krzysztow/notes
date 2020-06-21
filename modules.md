@@ -17,3 +17,7 @@ Papers:
 
 CMake support:
 * https://gitlab.kitware.com/cmake/cmake/-/issues/18355
+
+Packaging, not fully read yet:
+* http://open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1788r3.pdf
+* Richard -> http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1767r0.html
