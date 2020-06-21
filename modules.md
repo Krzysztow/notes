@@ -13,3 +13,4 @@
 
 Papers:
 * modules build-systems usability: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1427r0.pdf  
+* http://open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1948r0.pdf - modules participate in the name mangling - API & ABI
