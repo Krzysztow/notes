@@ -10,6 +10,11 @@
 
 * modules satisfy 3 rules of Essential Physical Design (no cycles, no long-distance, no transitive) - https://www.youtube.com/watch?v=K_fTl_hIEGY&t=631s
 
+* CppCon 2016: Manuel Klimek “Deploying C++ modules to 100s of millions of lines of code":
+** initially no speed up (was it protobuf having too much dependecncy, need ot recheck)
+** speedup per compilation unit, but increased dependency inputs 37:15, naive dependency graph), but it also seems they were building, not reusing cache? 
+** slowdorn on staging, sending for remote building - they say they'd have to send all modules header files? Solution is only to split libraries (which internally allow you to have cyclic dependencies, which is bad)
+** modules kind of help not using the PIMPL pattern (if it's used for build speed improvements); won't be useful for ABI
 
 Papers:
 * modules build-systems usability: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1427r0.pdf  
